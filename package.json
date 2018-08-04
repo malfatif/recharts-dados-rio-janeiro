@@ -1,0 +1,30 @@
+{
+  "name": "recharts-rio-janeiro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --progress --colors --inline --hot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "fusioncharts": "^3.12.0",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-fusioncharts": "^1.0.4",
+    "recharts": "^1.0.0-beta.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.22.0",
+    "fusioncharts": "^3.12.0",
+    "react-fusioncharts": "^1.0.4"
+  }
+}
